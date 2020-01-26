@@ -1,0 +1,10 @@
+results/
+__pycache__/
+
+*.pkl
+*.jpg
+*.png
+
+*.swp
+*.swo
+
